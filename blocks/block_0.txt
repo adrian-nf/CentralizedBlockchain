@@ -1,0 +1,6 @@
+Block 0:
+Previous hash = 000000000000000
+Current hash = c33c66cf0af20d4490db7c6a180acbdcacb3d0b663ab10a7d0d8ab86b6f92466
+10 coins are created for 03a978c0defcb5c8fa3a59c5a2e04b89715d9c637bdf87862f9bf513fd585eec83
+(Admin Signature: 3045022100c516d9c471687edcae36fcbdfc39a1db6f4fbdb9453e5b877cd278cbd2694339022076ed10ac7bf65f6ade454d21837d03ea63ecef740cd8ced22d32b8a4426b90c301)
+----------
